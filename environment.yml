@@ -1,0 +1,15 @@
+name: Transformers
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python = 3.10
+  - pip
+  - pytorch
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - matplotlib-inline
+  - black
+  - optuna
